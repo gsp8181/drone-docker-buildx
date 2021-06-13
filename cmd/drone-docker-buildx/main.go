@@ -4,7 +4,7 @@ import (
 	"os"
 
 	"github.com/joho/godotenv"
-	"github.com/thegeeklab/drone-docker-buildx/plugin"
+	"github.com/gsp8181/drone-docker-buildx/plugin"
 	"github.com/urfave/cli/v2"
 
 	"github.com/drone-plugins/drone-plugin-lib/errors"
